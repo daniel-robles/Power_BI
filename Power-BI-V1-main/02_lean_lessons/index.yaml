@@ -1,0 +1,222 @@
+---
+course:
+  name: "Power BI - v.1"
+  number: MASTER
+  version: "1.0"
+  chapter:
+    - name: Week 7
+      sequential:
+        - name: Day 1
+          vertical:
+            - name: "Introduction to Business Intelligence"
+              component:
+                - type: html
+                  file: "week_1/day_1/7.01-introduction_to_business_intelligence.md"
+            - name: "Power BI Installation"
+              component:
+                - type: html
+                  file: "week_1/day_1/7.02-power_bi_installation.md"
+            - name: "[LAB] Lab 7.02"
+              component:
+                - type: html
+                  file: "week_1/day_1/lab-7.02_intro_to_business_intelligence.md"
+                - type: deliverable
+                  display_name: Intro to Business Intelligence (7.02)
+                  deliverable_identifier: power-bi_lab_7_02
+                  deliverable_description: Intro to Business Intelligence (Lab 7.02)
+
+        - name: Day 2
+          vertical:
+            - name: "Power BI Datasets/Resources"
+              component:
+                - type: html
+                  file: "week_1/day_2/datasets-resources.md"
+            - name: "Power BI Intro"
+              component:
+                - type: html
+                  file: "week_1/day_2/7.03-power_bi_intro.md"
+            - name: "Creating Visualizations"
+              component:
+                - type: html
+                  file: "week_1/day_2/7.04-creating_visualizations.md"
+            - name: "[LAB] Lab 7.04"
+              component:
+                - type: html
+                  file: "week_1/day_2/lab-7.04-database_connections.md"
+                - type: deliverable
+                  display_name: Database Connections (7.04)
+                  deliverable_identifier: power-bi_lab_7_04
+                  deliverable_description: Database Connections (Lab 7.04)
+
+        - name: Day 3
+          vertical:
+            - name: "Power BI Datasets/Resources"
+              component:
+                - type: html
+                  file: "week_1/day_2/datasets-resources.md"
+            - name: "Manipulating Data with Power BI"
+              component:
+                - type: html
+                  file: "week_1/day_3/7.05-manipulating_data_with_power_bi.md"
+            - name: "Statistics in Power BI"
+              component:
+                - type: html
+                  file: "week_1/day_3/7.06-statistics_in_power_bi.md"
+            - name: "[LAB] Lab 7.06"
+              component:
+                - type: html
+                  file: "week_1/day_3/lab-7.06-data_manipulation.md"
+                - type: deliverable
+                  display_name: Data Manipulation (7.06)
+                  deliverable_identifier: power-bi_lab_7_06
+                  deliverable_description: Data Manipulation (Lab 7.06)
+
+        - name: Day 4
+          vertical:
+            - name: "Power BI Datasets/Resources"
+              component:
+                - type: html
+                  file: "week_1/day_2/datasets-resources.md"
+            - name: "Data Manipulation 2"
+              component:
+                - type: html
+                  file: "week_1/day_4/7.07-data_manipulation_2.md"
+            - name: "Analyzing with Power BI"
+              component:
+                - type: html
+                  file: "week_1/day_4/7.08-analyzing_with_power_bi.md"
+            - name: "[LAB] Lab 7.08"
+              component:
+                - type: html
+                  file: "week_1/day_4/lab-7.08-case_study.md"
+                - type: deliverable
+                  display_name: Case Study (7.08)
+                  deliverable_identifier: power-bi_lab_7_08
+                  deliverable_description: Case Study (Lab 7.08)
+
+        - name: Day 5 - Summative
+          vertical:
+            - name: "Power BI Datasets/Resources"
+              component:
+                - type: html
+                  file: "week_1/day_2/datasets-resources.md"
+            - name: "[EXTRA] Assessment & Review"
+              component:
+                - type: html
+                  file: "week_1/day_5/day5_instructions.md"
+            - name: "![ASSESSMENT] Unit 7 Assessment"
+              component:
+                - type: deliverable
+                  display_name: Unit 7 Assessment
+                  deliverable_identifier: "60d26b0cf066e500475e8f1d"
+                  deliverable_description: None
+            - name: "[PROJECT] Power BI Mini Project"
+              component:
+                - type: html
+                  file: "week_1/day_5/mini_project.md"
+                - type: deliverable
+                  display_name: Power BI Mini Project
+                  deliverable_identifier: power-bi_mini_project
+                  deliverable_description: Power BI Mini Project
+
+    - name: Week 8
+      sequential:
+        - name: Day 1
+          vertical:
+            - name: "Power BI Datasets/Resources"
+              component:
+                - type: html
+                  file: "week_1/day_2/datasets-resources.md"
+            - name: "Introduction to DAX"
+              component:
+                - type: html
+                  file: "week_2/day_1/8.01-introduction_to_dax.md"
+            - name: "DAX 2"
+              component:
+                - type: html
+                  file: "week_2/day_1/8.02-dax_2.md"
+            - name: "[LAB] Lab 8.02"
+              component:
+                - type: html
+                  file: "week_2/day_1/lab-8.02-dax-functions.md"
+                - type: deliverable
+                  display_name: DAX Functions (8.02)
+                  deliverable_identifier: power-bi_lab_8_02
+                  deliverable_description: DAX Functions (Lab 8.02)
+        - name: Day 2
+          vertical:
+            - name: "Power BI Stores and Visualizations"
+              component:
+                - type: html
+                  file: "week_2/day_2/8.3-powerBI_stores_and_visualizations.md"
+            - name: "Power BI Reports"
+              component:
+                - type: html
+                  file: "week_2/day_2/8.4-powerBI_reports.md"
+            - name: "[LAB] Lab 8.04"
+              component:
+                - type: html
+                  file: "week_2/day_2/lab-visualizations-reports.md"
+                - type: deliverable
+                  display_name: Visualizations - Reports (8.04)
+                  deliverable_identifier: power-bi_lab_8_04
+                  deliverable_description: Visualizations - Reports (Lab 8.04)
+
+        - name: Day 3
+          vertical:
+            - name: "Improving reports, Introducing Power BI Service and Dashboards"
+              component:
+                - type: html
+                  file: "week_2/day_3/8.5-improving_visual_reports.md"
+            - name: "More on Dashboards and Scheduling Refresh"
+              component:
+                - type: html
+                  file: "week_2/day_3/8.6-more_on_dashboards_and_scheduling_refresh.md"
+            - name: "[LAB] Lab 8.06"
+              component:
+                - type: html
+                  file: "week_2/day_3/lab-conditional-formatting.md"
+                - type: deliverable
+                  display_name: Conditional Formatting (8.06)
+                  deliverable_identifier: power-bi_lab_8_06
+                  deliverable_description: Conditional Formatting (Lab 8.06)
+
+        - name: Day 4
+          vertical:
+            - name: "Mobile Views, Embed Visuals, and Joins between Tables"
+              component:
+                - type: html
+                  file: "week_2/day_4/8.7-mobile_views_embed_visuals_joins.md"
+            - name: "Storytelling"
+              component:
+                - type: html
+                  file: "week_2/day_4/8.8-storytelling.md"
+            - name: "[LAB] Lab 8.08"
+              component:
+                - type: html
+                  file: "week_2/day_4/lab-dashboard.md"
+                - type: deliverable
+                  display_name: Dashboard (8.08)
+                  deliverable_identifier: power-bi_lab_8_08
+                  deliverable_description: Dashboard (8.08)
+
+        - name: Day 5 - Summative
+          vertical:
+            - name: "[EXTRA] Assessment & Review"
+              component:
+                - type: html
+                  file: "week_1/day_5/day5_instructions.md"
+            - name: "![ASSESSMENT] Unit 8 Assessment"
+              component:
+                - type: deliverable
+                  display_name: Unit 8 Assessment
+                  deliverable_identifier: "60dabdf2be59230026c9a574"
+                  deliverable_description: None
+            - name: "[PROJECT] Power BI Mini Project 2"
+              component:
+                - type: html
+                  file: "week_2/day_5/mini_project.md"
+                - type: deliverable
+                  display_name: Power BI Mini Project 2
+                  deliverable_identifier: power-bi_mini_project_2
+                  deliverable_description: Power BI Mini Project 2

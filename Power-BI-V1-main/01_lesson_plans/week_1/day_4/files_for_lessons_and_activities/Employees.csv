@@ -1,0 +1,16 @@
+EmplD,FirstName,LastName,Education,Occupation,StandardCost,Sales,SQRT
+1,John,Yang,Bachelors,Professional,413.15,"3,578.27",59.82
+2,Rob,Johnson,Bachelors,Management,413.15,"3,399.99",58.31
+3,Ruben,Torres,Partial College,Skilled Manual,413.15,699.1,26.44
+4,Christy,Zhu,Bachelors,Professional,601.74,"3,078.27",55.48
+5,Rob,Huang,High School,Skilled Manual,"1,898.09","2,319.99",48.17
+6,John,Ruiz,Bachelors,Professional,"1,105.81",539.99,23.24
+7,John,Miller,Masters Degree,Management,601.74,"2,320.49",48.17
+8,Christy,Mehta,Partial High School,Clerical,13,24.99,5
+9,Rob,Verhoff,Partial High School,Clerical,17.29,24.99,5
+10,Christy,Carlson,Graduate Degree,Management,"1,105.81","2,234.99",47.28
+11,Gail,Erickson,Education,Professional,"2,171.29","4,319.99",65.73
+12,Barry,Johnson,Education,Management,"3,120.79","4,968.59",70.49
+13,Peter,Krebs,Graduate Degree,Clerical,67,59.53,7.72
+14,Greg,Alderson,Partial High School,Clerical,44,23.5,4.85
+15,Tutorial,Gateway,Masters Degree,Management,620.9,"1,200.89",34.65
